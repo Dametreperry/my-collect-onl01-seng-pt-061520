@@ -1,4 +1,4 @@
-def hello(array)
+def hello(collection)
   i = 0
   collection = []
   while i < array.length
